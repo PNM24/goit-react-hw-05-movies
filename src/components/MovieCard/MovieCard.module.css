@@ -1,0 +1,29 @@
+.movieItem {
+    margin: 10px;
+    width: 200px;
+    border: 1px solid #043cf5;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(1, 185, 241, 0.1);
+    background-color: rgb(1, 238, 247);
+  }
+  
+  .movieLink {
+    text-decoration: none;
+    color: #333;
+    display: block;
+  }
+  
+  .movieImage {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #04cff3;
+  }
+  
+  .movieTitle {
+    padding: 10px;
+    margin: 0;
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+  }

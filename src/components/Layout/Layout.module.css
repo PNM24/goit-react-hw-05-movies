@@ -1,5 +1,5 @@
 .nav {
-    background-color: rgb(7, 0, 5);
+    background-color: rgb(0, 0, 0);
     padding: 10px 0;
     text-align: start;
   }
@@ -13,9 +13,9 @@
   }
   
   .navLink:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(223, 0, 0);
   }
   
   .navLink.active {
-    color: rgb(0, 0, 0);
+    color: rgb(243, 9, 1);
   }
